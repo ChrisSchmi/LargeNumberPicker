@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+
+  <style name="AppTheme" parent="AppTheme.Base" />
+
+  <style name="AppTheme.Base" parent="Theme.AppCompat.NoActionBar">
+    <!-- Customize your theme here. -->
+    <!-- https://blog.xamarin.com/introduction-to-android-material-design/ -->
+    <item name="colorPrimary">#ff171717</item>
+    <item name="colorPrimaryDark">#ff000000</item>
+    <item name="colorAccent">#ff9C1717</item>
+    <item name="android:statusBarColor">#ffffba00</item>
+    <!-- http://stackoverflow.com/questions/26515058/this-activity-already-has-an-action-bar-supplied-by-the-window-decor -->
+    <item name="windowNoTitle">true</item>
+    <item name="windowActionBar">false</item>
+    <item name="android:fitsSystemWindows">true</item>
+  </style>
+</resources>

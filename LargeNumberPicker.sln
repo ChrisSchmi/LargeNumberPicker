@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargeNumberPicker", "LargeNumberPicker\LargeNumberPicker.csproj", "{97792A77-AF6F-41C8-B1CB-73180ABE14A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{BCF73BEA-6252-40E9-A6FD-93D9ECB41CD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97792A77-AF6F-41C8-B1CB-73180ABE14A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97792A77-AF6F-41C8-B1CB-73180ABE14A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97792A77-AF6F-41C8-B1CB-73180ABE14A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97792A77-AF6F-41C8-B1CB-73180ABE14A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF73BEA-6252-40E9-A6FD-93D9ECB41CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF73BEA-6252-40E9-A6FD-93D9ECB41CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF73BEA-6252-40E9-A6FD-93D9ECB41CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF73BEA-6252-40E9-A6FD-93D9ECB41CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
