@@ -14,5 +14,5 @@ Inspired by:
 
 
 Contributions welcome
-=====================
+---------------------
 If you like it please feel free to improve this component :D
